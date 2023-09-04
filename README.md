@@ -8,3 +8,10 @@ This project is a python based project which represents a dashboard of returns o
 -->Numpy
 
 ==>Capmfunctions.py is used for functions to implement in Capm_return.py
+
+
+***
+
+  Command = streamlit run CapmReturn.py
+
+***
